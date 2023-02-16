@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     ///     A ConnectEvent is triggered after successful login to the asterisk server.<br />

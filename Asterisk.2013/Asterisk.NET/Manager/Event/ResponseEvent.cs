@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// Abstract base class for events triggered in response to a ManagerAction.<br/>

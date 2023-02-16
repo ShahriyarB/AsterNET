@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// Abstract base class providing common properties for JoinEvent and LeaveEvent.

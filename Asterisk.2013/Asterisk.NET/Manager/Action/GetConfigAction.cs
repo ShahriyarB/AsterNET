@@ -1,6 +1,6 @@
-using AsterNET.Manager.Response;
+using AsterSharp.Manager.Response;
 
-namespace AsterNET.Manager.Action
+namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     The GetConfigAction sends a GetConfig command to the asterisk server.

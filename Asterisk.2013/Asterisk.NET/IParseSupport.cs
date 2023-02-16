@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace AsterNET
+namespace AsterSharp
 {
     internal interface IParseSupport
     {

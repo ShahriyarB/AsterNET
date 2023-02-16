@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Action
+namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     The ChallengeAction requests a challenge from the server to use when logging

@@ -1,6 +1,6 @@
 using System;
 
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     /// Raised when a member is paused/unpaused in the queue.<br />

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     public class ConfbridgeLeaveEvent : AbstractConfbridgeEvent
     {

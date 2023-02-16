@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// Abstract base class for user events.<br/>

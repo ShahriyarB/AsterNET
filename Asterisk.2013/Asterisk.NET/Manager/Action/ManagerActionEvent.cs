@@ -1,6 +1,7 @@
 using System;
+using AsterSharp.Manager.Event;
 
-namespace AsterNET.Manager.Action
+namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     The ManagerActionEvent is implemented by ManagerActions that
@@ -8,13 +9,13 @@ namespace AsterNET.Manager.Action
     ///     The event type that indicates that Asterisk is finished is returned by the
     ///     ActionCompleteEventClass property.
     /// </summary>
-    /// <seealso cref="AsterNET.Manager.Event.ResponseEvent" />
+    /// <seealso cref="ResponseEvent" />
     public abstract class ManagerActionEvent : ManagerAction
     {
         /// <summary>
         ///     Returns the event type that indicates that Asterisk is finished sending response events for this action.
         /// </summary>
-        /// <seealso cref="AsterNET.Manager.Event.ResponseEvent" />
+        /// <seealso cref="ResponseEvent" />
         public abstract Type ActionCompleteEventClass();
     }
 }

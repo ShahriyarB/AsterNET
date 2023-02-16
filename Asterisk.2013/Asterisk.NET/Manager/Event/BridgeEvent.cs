@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// A BridgeEvent is triggered when a link between two voice

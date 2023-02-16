@@ -3,7 +3,7 @@ using System.Collections;
 using System.Reflection;
 using System.Resources;
 
-namespace AsterNET.FastAGI
+namespace AsterSharp.FastAGI
 {
     /// <summary>
     ///     A MappingStrategy that is configured via a resource bundle.<br />
@@ -11,7 +11,7 @@ namespace AsterNET.FastAGI
     ///     qualified class name of the corresponding AGIScript as value.<br />
     ///     Example:
     ///     <pre>
-    ///         noopcommand = AsterNET.FastAGI.Command.NoopCommand
+    ///         noopcommand = AsterSharp.FastAGI.Command.NoopCommand
     ///     </pre>
     ///     NoopCommand must implement the AGIScript interface and have a default constructor with no parameters.<br />
     /// </summary>

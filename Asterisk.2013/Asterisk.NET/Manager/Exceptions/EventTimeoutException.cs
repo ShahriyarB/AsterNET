@@ -1,4 +1,4 @@
-namespace AsterNET.Manager
+namespace AsterSharp.Manager
 {
 	/// <summary>
 	/// An EventTimeoutException is thrown if a ManagerResponse or some

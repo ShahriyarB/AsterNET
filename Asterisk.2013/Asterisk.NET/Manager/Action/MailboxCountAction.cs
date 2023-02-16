@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Action
+namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     The MailboxCountAction queries the number of unread and read messages in a mailbox.<br />

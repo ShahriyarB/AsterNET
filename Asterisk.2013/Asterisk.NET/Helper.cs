@@ -4,11 +4,11 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Reflection;
 using System.Text;
-using AsterNET.Manager;
-using AsterNET.Manager.Event;
-using AsterNET.Manager.Response;
+using AsterSharp.Manager;
+using AsterSharp.Manager.Event;
+using AsterSharp.Manager.Response;
 
-namespace AsterNET
+namespace AsterSharp
 {
     internal class Helper
     {

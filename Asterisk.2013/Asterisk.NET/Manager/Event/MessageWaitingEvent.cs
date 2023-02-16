@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     ///     A MessageWaitingEvent is triggered when someone leaves voicemail.<br />

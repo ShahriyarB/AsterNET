@@ -1,8 +1,8 @@
-﻿namespace AsterNET.Manager.Action
+﻿namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     This action lets you execute any AGI command through the Manager interface
-    ///     For example, check the AsterNET.Test project
+    ///     For example, check the AsterSharp.Test project
     /// </summary>
     public class AgiAction : ManagerAction
     {

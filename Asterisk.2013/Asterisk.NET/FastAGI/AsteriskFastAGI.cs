@@ -2,11 +2,11 @@ using System;
 using System.IO;
 using System.Net;
 using System.Text;
-using AsterNET.FastAGI.MappingStrategies;
-using AsterNET.IO;
-using AsterNET.Util;
+using AsterSharp.FastAGI.MappingStrategies;
+using AsterSharp.IO;
+using AsterSharp.Util;
 
-namespace AsterNET.FastAGI
+namespace AsterSharp.FastAGI
 {
     public class AsteriskFastAGI
     {

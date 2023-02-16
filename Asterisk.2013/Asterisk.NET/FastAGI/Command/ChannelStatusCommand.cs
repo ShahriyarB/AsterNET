@@ -1,5 +1,5 @@
 using System;
-namespace AsterNET.FastAGI.Command
+namespace AsterSharp.FastAGI.Command
 {
     /// <summary>
     /// Returns the status of the specified channel.

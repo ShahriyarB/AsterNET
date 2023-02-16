@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     public class JitterBufStatsEvent : ManagerEvent
     {

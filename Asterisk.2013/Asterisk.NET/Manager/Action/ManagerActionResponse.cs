@@ -1,4 +1,6 @@
-namespace AsterNET.Manager.Action
+using AsterSharp.Manager.Event;
+
+namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     The ManagerActionResponse is implemented by ManagerActions that
@@ -6,13 +8,13 @@ namespace AsterNET.Manager.Action
     ///     The response type that indicates that Asterisk is finished is returned by the
     ///     ActionCompleteResponseClass property.
     /// </summary>
-    /// <seealso cref="AsterNET.Manager.Event.ResponseEvent" />
+    /// <seealso cref="ResponseEvent" />
     public abstract class ManagerActionResponse : ManagerAction
     {
         /// <summary>
         ///     Returns the response type that indicates that Asterisk is finished sending response for this action.
         /// </summary>
-        /// <seealso cref="AsterNET.Manager.Response" />
+        /// <seealso cref="AsterSharp.Manager.Response" />
         public abstract object ActionCompleteResponseClass();
     }
 }

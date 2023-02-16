@@ -1,10 +1,10 @@
 using System;
 using System.IO;
 using System.Threading;
-using AsterNET.FastAGI.Command;
-using AsterNET.IO;
+using AsterSharp.FastAGI.Command;
+using AsterSharp.IO;
 
-namespace AsterNET.FastAGI
+namespace AsterSharp.FastAGI
 {
     /// <summary>
     ///     An AGIConnectionHandler is created and run by the AGIServer whenever a new

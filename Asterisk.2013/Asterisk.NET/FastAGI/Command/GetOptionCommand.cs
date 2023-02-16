@@ -1,5 +1,5 @@
 using System;
-namespace AsterNET.FastAGI.Command
+namespace AsterSharp.FastAGI.Command
 {
 	/// <summary>
 	/// Plays the given file, and waits for the user to press one of the given

@@ -1,17 +1,17 @@
 using System;
 using System.Threading;
 using System.Collections;
-using AsterNET.Manager.Action;
-using AsterNET.Manager.Event;
-using AsterNET.Manager.Response;
 using System.Text.RegularExpressions;
 using System.Text;
 using System.Collections.Generic;
 using System.Reflection;
-using AsterNET.IO;
 using System.Threading.Tasks;
+using AsterSharp.IO;
+using AsterSharp.Manager.Action;
+using AsterSharp.Manager.Event;
+using AsterSharp.Manager.Response;
 
-namespace AsterNET.Manager
+namespace AsterSharp.Manager
 {
     /// <summary>
     /// Default implementation of the ManagerConnection interface.

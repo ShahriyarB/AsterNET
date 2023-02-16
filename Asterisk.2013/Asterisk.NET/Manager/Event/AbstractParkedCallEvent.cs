@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     ///     Abstract base class for several call parking related events.

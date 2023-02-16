@@ -1,4 +1,4 @@
-﻿namespace AsterNET.Manager.Action
+﻿namespace AsterSharp.Manager.Action
 {
     public class AOCMessageAction : ManagerAction
     {

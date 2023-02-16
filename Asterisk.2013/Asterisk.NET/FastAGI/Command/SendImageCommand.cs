@@ -1,6 +1,6 @@
 using System;
 
-namespace AsterNET.FastAGI.Command
+namespace AsterSharp.FastAGI.Command
 {
 	/// <summary>
 	/// Sends the given image on a channel.<br/>

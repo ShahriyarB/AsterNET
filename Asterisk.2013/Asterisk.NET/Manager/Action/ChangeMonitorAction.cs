@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Action
+namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     The ChangeMonitorAction changes the monitoring filename of a channel.

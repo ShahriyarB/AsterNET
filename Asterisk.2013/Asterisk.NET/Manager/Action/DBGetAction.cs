@@ -1,14 +1,14 @@
 using System;
-using AsterNET.Manager.Event;
+using AsterSharp.Manager.Event;
 
-namespace AsterNET.Manager.Action
+namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     Retrieves an entry in the Asterisk database for a given family and key.<br />
     ///     If an entry is found a DBGetResponseEvent is sent by Asterisk containing the
     ///     value, otherwise a ManagerError indicates that no entry matches.
     /// </summary>
-    /// <seealso cref="AsterNET.Manager.Event.DBGetResponseEvent" />
+    /// <seealso cref="DBGetResponseEvent" />
     public class DBGetAction : ManagerActionEvent
     {
         /// <summary>

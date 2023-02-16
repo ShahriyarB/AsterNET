@@ -6,7 +6,7 @@ using System.Text;
 /// <summary>
 /// </summary>
 
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     public class FailedACLEvent : ManagerEvent
     {

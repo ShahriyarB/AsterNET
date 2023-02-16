@@ -1,4 +1,4 @@
-﻿namespace AsterNET.Manager.Action
+﻿namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     The ParkAction allows to send a Channel to a Parking lot.<br />

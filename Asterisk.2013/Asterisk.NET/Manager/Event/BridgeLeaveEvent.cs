@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     public class BridgeLeaveEvent : BridgeActivityEvent
     {

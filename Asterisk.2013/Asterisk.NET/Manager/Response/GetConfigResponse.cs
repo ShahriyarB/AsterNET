@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace AsterNET.Manager.Response
+namespace AsterSharp.Manager.Response
 {
     /// <summary>
     ///     Response that is received when sending a GetConfigAction.<br />

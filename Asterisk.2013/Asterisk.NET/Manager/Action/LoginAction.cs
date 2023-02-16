@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Action
+namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     The LoginAction authenticates the connection.<br />

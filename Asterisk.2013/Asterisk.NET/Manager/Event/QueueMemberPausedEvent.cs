@@ -1,6 +1,6 @@
 using System;
 
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// A QueueMemberPausedEvent is triggered when a queue member is paused or unpaused.<br/>

@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// A ParkedCallTimeOutEvent is triggered when call parking times out for a given channel.<br/>

@@ -1,5 +1,5 @@
 using System;
-namespace AsterNET.FastAGI.Command
+namespace AsterSharp.FastAGI.Command
 {
 	/// <summary>
 	/// Hangs up the specified channel. If no channel name is given, hangs up the current channel.

@@ -1,5 +1,5 @@
 using System;
-namespace AsterNET.Manager
+namespace AsterSharp.Manager
 {
 	/// <summary>
 	/// A TimeoutException is thrown if a ManagerResponse is not received within the expected time period.

@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// A ZapShowChannelsCompleteEvent is triggered after the state of all zap channels has been reported

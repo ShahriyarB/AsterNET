@@ -1,7 +1,7 @@
 using System;
-using AsterNET.Manager.Event;
+using AsterSharp.Manager.Event;
 
-namespace AsterNET.Manager.Action
+namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     The AgentsAction requests the state of all agents.<br />
@@ -9,8 +9,8 @@ namespace AsterNET.Manager.Action
     ///     After the state of all agents has been reported an AgentsCompleteEvent is generated.<br />
     ///     Available since Asterisk 1.2
     /// </summary>
-    /// <seealso cref="AsterNET.Manager.Event.AgentsEvent" />
-    /// <seealso cref="AsterNET.Manager.Event.AgentsCompleteEvent" />
+    /// <seealso cref="AgentsEvent" />
+    /// <seealso cref="AgentsCompleteEvent" />
     public class AgentsAction : ManagerActionEvent
     {
         #region Action 

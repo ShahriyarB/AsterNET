@@ -1,9 +1,9 @@
 using System.Threading;
-using AsterNET.Manager.Action;
-using AsterNET.Manager.Event;
-using AsterNET.Manager.Response;
+using AsterSharp.Manager.Action;
+using AsterSharp.Manager.Event;
+using AsterSharp.Manager.Response;
 
-namespace AsterNET.Manager
+namespace AsterSharp.Manager
 {
     /// <summary>
     ///     A combined event and response handler that adds received events and the response to a ResponseEvents object.

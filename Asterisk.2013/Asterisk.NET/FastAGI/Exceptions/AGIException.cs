@@ -1,5 +1,5 @@
 using System;
-namespace AsterNET.FastAGI
+namespace AsterSharp.FastAGI
 {
 	/// <summary>
 	/// Abstract base class for all AGI specific exceptions.

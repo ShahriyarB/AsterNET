@@ -3,12 +3,12 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Net.Sockets;
 using System.Threading;
-using AsterNET.IO;
-using AsterNET.Manager.Action;
-using AsterNET.Manager.Event;
-using AsterNET.Manager.Response;
+using AsterSharp.IO;
+using AsterSharp.Manager.Action;
+using AsterSharp.Manager.Event;
+using AsterSharp.Manager.Response;
 
-namespace AsterNET.Manager
+namespace AsterSharp.Manager
 {
 	/// <summary>
 	///     Default implementation of the ManagerReader interface.

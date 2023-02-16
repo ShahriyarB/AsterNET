@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Response
+namespace AsterSharp.Manager.Response
 {
     /// <summary>
     ///     A MailboxCountResponse is sent in response to a MailboxCountAction and contains the number of old

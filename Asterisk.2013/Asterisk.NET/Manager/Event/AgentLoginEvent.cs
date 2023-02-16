@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     ///     An AgentLoginEvent is triggered when an agent is successfully logged in using AgentLogin.<br />

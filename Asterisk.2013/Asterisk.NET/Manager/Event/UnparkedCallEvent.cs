@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// A UnparkedCallEvent is triggered when a channel that has been parked is resumed.<br/>

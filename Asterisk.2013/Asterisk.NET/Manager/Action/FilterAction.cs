@@ -1,4 +1,4 @@
-﻿namespace AsterNET.Manager.Action
+﻿namespace AsterSharp.Manager.Action
 {
     /// <summary>
     /// Dynamically add filters for the current manager session

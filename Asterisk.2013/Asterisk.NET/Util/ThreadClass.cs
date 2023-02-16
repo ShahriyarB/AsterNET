@@ -1,7 +1,7 @@
 using System;
 using System.Threading;
 
-namespace AsterNET.Util
+namespace AsterSharp.Util
 {
 	/// <summary>
 	/// Support class used to handle threads

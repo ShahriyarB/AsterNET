@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Response
+namespace AsterSharp.Manager.Response
 {
     /// <summary>
     ///     Corresponds to a ChallengeAction and contains the challenge needed to log in using challenge/response.

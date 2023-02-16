@@ -1,5 +1,5 @@
 using System;
-namespace AsterNET.Manager
+namespace AsterSharp.Manager
 {
 	/// <summary>
 	/// An ManagerException is thrown when a Manager Error Response.

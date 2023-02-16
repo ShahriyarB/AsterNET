@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// A MeetMeStopTalkingEvent is triggered when a user ends talking in a meet me conference.<br/>

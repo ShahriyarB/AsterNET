@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     /// An UnholdEvent is triggered by the SIP channel driver when a channel is no longer put on hold.<br/>

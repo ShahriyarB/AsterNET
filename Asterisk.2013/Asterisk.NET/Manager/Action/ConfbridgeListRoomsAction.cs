@@ -1,7 +1,7 @@
 ﻿using System;
-using AsterNET.Manager.Event;
+using AsterSharp.Manager.Event;
 
-namespace AsterNET.Manager.Action
+namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     Lists data about all active conferences. ConfbridgeListRooms will follow as separate events,

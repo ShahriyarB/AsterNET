@@ -1,4 +1,4 @@
-﻿namespace AsterNET.Manager.Event
+﻿namespace AsterSharp.Manager.Event
 {
     /// <summary>
     ///     Raised when a DTMF digit has ended on a channel.<br/>

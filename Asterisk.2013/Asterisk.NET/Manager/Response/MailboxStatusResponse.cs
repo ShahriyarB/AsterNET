@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Response
+namespace AsterSharp.Manager.Response
 {
     /// <summary>
     ///     A MailboxStatusResponse is sent in response to a MailboxStatusAction and indicates if a set

@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// A QueueCallerLeaveEvent is triggered when a channel leaves a queue.<br/>

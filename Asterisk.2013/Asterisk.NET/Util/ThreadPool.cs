@@ -1,9 +1,9 @@
 using System.Threading;
 using System.Collections;
-using AsterNET.FastAGI;
 using System.Collections.Generic;
+using AsterSharp.FastAGI;
 
-namespace AsterNET.Util
+namespace AsterSharp.Util
 {
 	/// <summary>
 	/// A fixed sized thread pool.

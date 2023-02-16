@@ -1,5 +1,5 @@
 using System;
-namespace AsterNET.Manager
+namespace AsterSharp.Manager
 {
 	/// <summary>
 	/// An AuthenticationFailedException is thrown when a login fails due to an incorrect username and/or password.

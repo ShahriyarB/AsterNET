@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     ///     An ConfbridgeListCompleteEvent is triggered after the state of all Confbridges has been reported in response to an ConfbridgeListAction.<br/>

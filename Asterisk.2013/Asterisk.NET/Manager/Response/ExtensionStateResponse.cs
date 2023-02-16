@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Response
+namespace AsterSharp.Manager.Response
 {
     public class ExtensionStateResponse : ManagerResponse
     {

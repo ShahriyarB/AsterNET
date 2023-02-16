@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
-using AsterNET.Manager.Action;
+using AsterSharp.Manager.Action;
 
-namespace AsterNET.Manager.Response
+namespace AsterSharp.Manager.Response
 {
     /// <summary>
     ///     

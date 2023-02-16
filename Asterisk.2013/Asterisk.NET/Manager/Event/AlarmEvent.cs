@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     ///     An AlarmEvent is triggered when a Zap channel enters or changes alarm state.<br />

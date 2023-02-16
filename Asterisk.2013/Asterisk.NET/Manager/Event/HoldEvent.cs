@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     ///     A HoldEvent is triggered by the SIP channel driver when a channel is put on hold.<br />

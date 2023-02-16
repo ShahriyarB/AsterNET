@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// A QueueMemberRemovedEvent is triggered when a queue member is removed from a queue.<br/>

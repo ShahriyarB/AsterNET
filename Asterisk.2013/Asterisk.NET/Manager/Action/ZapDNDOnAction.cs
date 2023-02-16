@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Action
+namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     The ZapDNDOnAction switches a zap channel "Do Not Disturb" status on.

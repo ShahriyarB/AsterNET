@@ -1,6 +1,6 @@
 using System;
 
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	public class PRIEvent : ManagerEvent
 	{

@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// A QueueMemberPenaltyEvent is triggered when a queue member is assigned a new penalty.

@@ -1,7 +1,7 @@
 using System;
-using AsterNET.FastAGI;
+using AsterSharp.FastAGI;
 
-namespace AsterNET.Util
+namespace AsterSharp.Util
 {
 	/// <summary>
 	/// A TaskThread sits in a loop, asking the pool for a job, and servicing it.

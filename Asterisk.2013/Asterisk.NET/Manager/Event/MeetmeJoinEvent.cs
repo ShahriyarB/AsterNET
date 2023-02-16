@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     ///     A MeetMeJoinEvent is triggered if a channel joins a meet me conference.<br />

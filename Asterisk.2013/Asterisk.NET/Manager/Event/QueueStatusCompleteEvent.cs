@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// A QueueStatusCompleteEvent is triggered after the state of all queues has been reported in response to a QueueStatusAction.<br/>

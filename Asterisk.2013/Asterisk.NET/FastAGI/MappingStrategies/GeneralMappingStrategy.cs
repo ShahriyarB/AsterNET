@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Xml.Serialization;
 
-namespace AsterNET.FastAGI.MappingStrategies
+namespace AsterSharp.FastAGI.MappingStrategies
 {
 
     internal class MappingAssembly

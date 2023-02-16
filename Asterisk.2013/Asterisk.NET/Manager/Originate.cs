@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace AsterNET.Manager
+namespace AsterSharp.Manager
 {
     /// <summary>
     ///     Originates an outbound call and connects it to a specified extension or application.<br/>

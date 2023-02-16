@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     /// A dial begin event is triggered whenever when a dial action has started.<br/>

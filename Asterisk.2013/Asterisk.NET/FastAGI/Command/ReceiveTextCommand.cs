@@ -1,4 +1,4 @@
-namespace AsterNET.FastAGI.Command
+namespace AsterSharp.FastAGI.Command
 {
 	/// <summary>
 	/// Receives a string of text on a channel.<br/>

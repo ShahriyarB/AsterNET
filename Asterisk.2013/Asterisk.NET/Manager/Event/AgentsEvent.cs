@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     ///     An AgentsEvent is triggered for each agent in response to an AgentsAction.<br />

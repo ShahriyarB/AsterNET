@@ -5,7 +5,7 @@ using System.Net;
 using System.Text.RegularExpressions;
 using System.Web;
 
-namespace AsterNET.FastAGI
+namespace AsterSharp.FastAGI
 {
     /// <summary>
     ///     Default implementation of the AGIRequest interface.

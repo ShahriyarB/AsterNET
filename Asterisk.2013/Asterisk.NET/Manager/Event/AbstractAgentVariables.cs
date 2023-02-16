@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Collections;
 
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	public abstract class AbstractAgentVariables : ManagerEvent, IActionVariable
 	{

@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Action
+namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     The QueuePauseAction makes a queue member temporarily unavailabe (or available again).<br />

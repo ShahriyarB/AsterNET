@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     /// Abstract base class for all Events that can be received from the Asterisk server.<br/>

@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// A LinkEvent is triggered when two voice channels are linked together and voice data exchange commences.<br/>

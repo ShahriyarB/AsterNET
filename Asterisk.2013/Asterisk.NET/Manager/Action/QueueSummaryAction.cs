@@ -1,7 +1,7 @@
-﻿using AsterNET.Manager.Event;
-using System;
+﻿using System;
+using AsterSharp.Manager.Event;
 
-namespace AsterNET.Manager.Action
+namespace AsterSharp.Manager.Action
 {
     /// <summary>
     /// Show queue summary

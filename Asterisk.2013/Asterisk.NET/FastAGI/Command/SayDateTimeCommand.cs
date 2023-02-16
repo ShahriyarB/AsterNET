@@ -1,5 +1,5 @@
 using System.Text;
-namespace AsterNET.FastAGI.Command
+namespace AsterSharp.FastAGI.Command
 {
 	/// <summary>
 	/// Say a given time, returning early if any of the given DTMF digits are pressed.<br/>

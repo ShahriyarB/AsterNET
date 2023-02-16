@@ -1,8 +1,8 @@
 using System.IO;
-using AsterNET.FastAGI.Command;
-using AsterNET.IO;
+using AsterSharp.FastAGI.Command;
+using AsterSharp.IO;
 
-namespace AsterNET.FastAGI
+namespace AsterSharp.FastAGI
 {
     /// <summary>
     ///     Default implementation of the AGIWriter interface.

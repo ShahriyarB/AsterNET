@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     /// A StatusCompleteEvent is triggered after the state of all channels has been reported in response

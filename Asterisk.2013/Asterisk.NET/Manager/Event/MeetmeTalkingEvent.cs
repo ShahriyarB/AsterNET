@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     ///     A MeetMeTalkingEvent is triggered when a user starts talking in a meet me conference.

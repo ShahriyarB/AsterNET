@@ -1,7 +1,7 @@
 using System;
-using AsterNET.Manager.Event;
+using AsterSharp.Manager.Event;
 
-namespace AsterNET.Manager.Action
+namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     Retrieves a the details about a given SIP peer.<br />

@@ -1,7 +1,7 @@
-using AsterNET.Manager.Action;
-using AsterNET.Manager.Response;
+using AsterSharp.Manager.Action;
+using AsterSharp.Manager.Response;
 
-namespace AsterNET.Manager
+namespace AsterSharp.Manager
 {
     /// <summary>
     ///     An Interface to handle responses received from an asterisk server.

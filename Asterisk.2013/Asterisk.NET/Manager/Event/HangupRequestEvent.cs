@@ -1,4 +1,4 @@
-﻿namespace AsterNET.Manager.Event
+﻿namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// A HangupRequestEvent is raised when a channel is hang up.<br/>

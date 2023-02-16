@@ -1,9 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
-using AsterNET.Manager.Event;
-using AsterNET.Manager.Response;
+using AsterSharp.Manager.Event;
+using AsterSharp.Manager.Response;
 
-namespace AsterNET.Manager
+namespace AsterSharp.Manager
 {
     /// <summary>
     ///     Collection of ResponseEvent. Use in events generation actions.

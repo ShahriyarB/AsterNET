@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     /// A ParkedCallsCompleteEvent is triggered after all parked calls have been reported in response to a ParkedCallsAction.

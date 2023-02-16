@@ -1,4 +1,4 @@
-﻿namespace AsterNET.Manager.Event
+﻿namespace AsterSharp.Manager.Event
 {
     /// <summary>
     ///     Raised when music on hold has stopped on a channel.<br />

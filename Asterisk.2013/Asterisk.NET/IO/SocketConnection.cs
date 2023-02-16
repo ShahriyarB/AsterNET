@@ -4,7 +4,7 @@ using System.Net.Sockets;
 using System.Net;
 using System;
 
-namespace AsterNET.IO
+namespace AsterSharp.IO
 {
 	/// <summary>
 	/// Socket connection to asterisk.

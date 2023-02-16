@@ -1,6 +1,6 @@
 using System.Text;
 
-namespace AsterNET.FastAGI.Command
+namespace AsterSharp.FastAGI.Command
 {
 	public abstract class AGICommand
 	{

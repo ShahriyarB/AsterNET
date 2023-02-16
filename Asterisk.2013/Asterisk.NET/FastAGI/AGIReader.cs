@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.IO;
-using AsterNET.IO;
+using AsterSharp.IO;
 
-namespace AsterNET.FastAGI
+namespace AsterSharp.FastAGI
 {
     public class AGIReader
     {

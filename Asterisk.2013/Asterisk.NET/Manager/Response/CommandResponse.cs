@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace AsterNET.Manager.Response
+namespace AsterSharp.Manager.Response
 {
     /// <summary>
     ///     Corresponds to a CommandAction.<br />

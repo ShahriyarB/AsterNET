@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
     /// <summary>
     ///     A MeetMeLeaveEvent is triggered if a channel leaves a meet me conference.<br />

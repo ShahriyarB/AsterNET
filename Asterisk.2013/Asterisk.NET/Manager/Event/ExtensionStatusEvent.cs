@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// An ExtensionStatusEvent is triggered when the state of an extension changes.<br/>

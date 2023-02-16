@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using AsterNET.Manager.Event;
+using AsterSharp.Manager.Event;
 
-namespace AsterNET.Manager.Action
+namespace AsterSharp.Manager.Action
 {
     /// <summary>
     ///     The OriginateAction generates an outgoing call to the extension in the given
@@ -20,8 +20,8 @@ namespace AsterNET.Manager.Action
     ///     and OriginateFailureEvents. The action id of these events equals the action
     ///     id of this OriginateAction.
     /// </summary>
-    /// <seealso cref="AsterNET.Manager.Event.OriginateSuccessEvent" />
-    /// <seealso cref="AsterNET.Manager.Event.OriginateFailureEvent" />
+    /// <seealso cref="AsterSharp.Manager.Event.OriginateSuccessEvent" />
+    /// <seealso cref="AsterSharp.Manager.Event.OriginateFailureEvent" />
     public class OriginateAction : ManagerActionEvent, IActionVariable
     {
         private Dictionary<string, string> variables;

@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Reflection;
 using System.Threading;
 
-namespace AsterNET
+namespace AsterSharp
 {
 #if LOGGER
 

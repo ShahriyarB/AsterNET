@@ -1,4 +1,4 @@
-namespace AsterNET.Manager
+namespace AsterSharp.Manager
 {
     /// <summary>
     ///     Asterisk Version

@@ -1,8 +1,8 @@
 using System.Threading;
-using AsterNET.Manager.Action;
-using AsterNET.Manager.Response;
+using AsterSharp.Manager.Action;
+using AsterSharp.Manager.Response;
 
-namespace AsterNET.Manager
+namespace AsterSharp.Manager
 {
     /// <summary>
     ///     A simple response handler that stores the received response in a ResponseHandlerResult for further processing.

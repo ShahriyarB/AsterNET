@@ -1,4 +1,4 @@
-namespace AsterNET.FastAGI
+namespace AsterSharp.FastAGI
 {
     public interface IMappingStrategy
     {

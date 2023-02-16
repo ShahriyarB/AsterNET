@@ -1,4 +1,4 @@
-namespace AsterNET.Manager.Event
+namespace AsterSharp.Manager.Event
 {
 	/// <summary>
 	/// A NewExtenEvent is triggered when a channel is connected to a new extension.<br/>

@@ -1,6 +1,6 @@
 using System.Security.Cryptography;
 
-namespace AsterNET.Util
+namespace AsterSharp.Util
 {
     /// <summary>
     ///     Encapsulates the functionality of message digest algorithms such as SHA-1 or MD5.

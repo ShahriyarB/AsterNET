@@ -1,4 +1,4 @@
-﻿namespace AsterNET.Manager.Event
+﻿namespace AsterSharp.Manager.Event
 {
     /// <summary>
     ///     A MusicOnHoldEvent is triggered when music on hold starts or stops on a channel.<br/>
